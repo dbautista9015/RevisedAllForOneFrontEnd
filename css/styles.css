@@ -1,0 +1,45 @@
+#backgroundImage {
+    background-image: url("../images/Main_Menu_Duplicate.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading {
+    font-family: 'Vujahday Script', cursive;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.subTitle {
+    font-size: 40px;
+}
+
+.bottom {
+    margin-top: 100px;
+}
+
+.miniChallengeBtnsFont {
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.btn-light {
+    color: purple;
+    font-weight: bold;
+}
+
+.visible {
+    visibility: visible;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.inputFieldLength {
+    width: 60%;
+}
+
+
+
